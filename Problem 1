@@ -16,7 +16,7 @@ $("#animate_div").animate({fontSize: "100px"}, "slow");
 <body>
 
 <div id="animate_div">
-Darth Vader
+Super Man
 </div>
 
 <button id="animate_button">Animate</button>
